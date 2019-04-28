@@ -31,21 +31,21 @@ Having been a passionate Open Source Software community member since the mid 90s
 
 #### Conferences:
 
-+ Linuxfest Northwest - 2014-2016
- + 2014 - Sponsor and Representing Jupiter Broadcasting
- + 2015 - Sponsor and Representing Jupiter Broadcasting
- + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
-+ Southeast Linuxfest - 2014-2016
- + 2014 - Speaker
- + 2015 - Speaker, Sponsor, and Representing Jupiter Broadcasting
- + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
- + 2017 - Staff
- + 2018 - Staff, Speaker, and Sponsor
-+ Ohio Linuxfest - 2014-2015
- + 2014 - Sponsor and Representing Jupiter Broadcasting
- + 2015 - General Attendee and Representitive for PCBSD Project
- + 2016 - General Attendee and Sponsor
- + 2018 - Attendee, Sponsor, and Exhibitor
-+ Fosscon - 2015-2016
- + 2015 - Representitive for the Archlinux ARM Project
- + 2016 - Speaker and Representitive for the Archlinux ARM Project
+ + Linuxfest Northwest - 2014-2016
+    + 2014 - Sponsor and Representing Jupiter Broadcasting
+    + 2015 - Sponsor and Representing Jupiter Broadcasting
+    + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
+ + Southeast Linuxfest - 2014-2016
+    + 2014 - Speaker
+    + 2015 - Speaker, Sponsor, and Representing Jupiter Broadcasting
+    + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
+    + 2017 - Staff
+    + 2018 - Staff, Speaker, and Sponsor
+ + Ohio Linuxfest - 2014-2015
+    + 2014 - Sponsor and Representing Jupiter Broadcasting
+    + 2015 - General Attendee and Representitive for PCBSD Project
+    + 2016 - General Attendee and Sponsor
+    + 2018 - Attendee, Sponsor, and Exhibitor
+ + Fosscon - 2015-2016
+    + 2015 - Representitive for the Archlinux ARM Project
+    + 2016 - Speaker and Representitive for the Archlinux ARM Project
