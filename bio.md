@@ -18,15 +18,14 @@ Having been a passionate Open Source Software community member since the mid 90s
     + Jupiter Broadcasting Mumble Moderator 2014-2017
 + YaCyPi Developer - 2014 https://www.kickstarter.com/projects/1455616350/yacypi-turnkey-raspberry-pi-based-internet-search
 + Lumina Desktop Developer, Fuzzer, and Support 2015-Current
-+ Southeast LinuxFest Speaker/Staff - 2015-Current
 + CharmBug - Co-Organizer 2016-Current http://www.meetup.com/CharmBUG/
 + Lancaster Linux User group - Co-organizer 2016-Current http://www.meetup.com/lanclug/
-+ OpenSource.com - Author 2016-Current https://opensource.com/users/jtpennington
++ OpenSource.com - Author 2016 https://opensource.com/users/jtpennington
 + TrueOS Developer 2016-Current
-+ FreeNAS and TrueView Developer 2016-2018
-+ KnoxBug - Co-Organizer 2017-Current http://knoxbug.org
++ FreeNAS/TrueNAS and TrueCommand Developer 2016-2018
++ KnoxBug - Co-Organizer 2017-2018 http://knoxbug.org
 + Project Trident Developer 2018-Current
-+ MeetBSD Staff - 2018
++ Mind Drip Media - 2019 - Current
 
 
 #### Conferences:
@@ -49,3 +48,9 @@ Having been a passionate Open Source Software community member since the mid 90s
  + Fosscon - 2015-2016
     + 2015 - Representitive for the Archlinux ARM Project
     + 2016 - Speaker and Representitive for the Archlinux ARM Project
+    
+ + MeetBSD - 
+    + 2016 - Sponsor
+    + 2018 - Host / Master of Ceremonies 
+ + vBSDcon 
+    + 2017 - Sponsor 
