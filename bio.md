@@ -1,4 +1,4 @@
-### My History
+### About
 
 I was first introduced to Open Source Software by a friend in 1994 who gifted a machine with Slackware installed on it.  From that point on I was hooked. I bounced around between the Slackware and SuSe communitues before finally finding a home within the Puppy Linux community. I became involved in the Puppy Linux Project in 2008 and have been a member of that community ever since.  I have worked in IT most of my adult life, aside from a short stint in the USAF.  In 2011, I co-founded Obsidian Security Services, a small security consulting firm providing boutique services to business clients.  In 2013, I joined the ranks of Jupiter Broadcasting as a producer for the largest and continually running Linux podcast, 'Linux Action Show' and its spin off show 'Linux Unplugged' and become the producer of BSD Now in 2015.  Most recently, I worked for iXsystems, the company behind FreeNAS - 'The World's #1 Storage OS', from 2016 up through 2018.
 
