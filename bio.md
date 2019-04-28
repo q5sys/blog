@@ -9,13 +9,13 @@ Having been a passionate Open Source Software community member since the mid 90s
 
 + Puppy Linux Developer and Community Support: 2008-2015 http://puppylinux.com	
 + Jupiter Broadcasting - http://jupiterbroadcasting.com
- + Producer - BSD Now 2015-Current
- + Producer - Linux Action Show and Linux Unplugged 2013-2015 
- + Producer - Ask Noah Show
- + Community Moderator
-    + Multiple Jupiter Broadcasting reddit communities 2014-Current
-    + Jupiter Broadcasting IRC Op 2013-Current
-    + Jupiter Broadcasting Mumble Moderator 2014-2017
+    + Producer - BSD Now 2015-Current
+    + Producer - Linux Action Show and Linux Unplugged 2013-2015 
+    + Producer - Ask Noah Show
+    + Community Moderator
+        + Multiple Jupiter Broadcasting reddit communities 2014-Current
+        + Jupiter Broadcasting IRC Op 2013-Current
+        + Jupiter Broadcasting Mumble Moderator 2014-2017
 + YaCyPi Developer - 2014 https://www.kickstarter.com/projects/1455616350/yacypi-turnkey-raspberry-pi-based-internet-search
 + Lumina Desktop Developer, Fuzzer, and Support 2015-Current
 + CharmBug - Co-Organizer 2016-Current http://www.meetup.com/CharmBUG/
