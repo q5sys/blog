@@ -17,14 +17,14 @@ Having been a passionate Open Source Software community member since the mid 90s
         + Jupiter Broadcasting IRC Op 2013-Current
         + Jupiter Broadcasting Mumble Moderator 2014-2017
 + YaCyPi Developer - 2014 https://www.kickstarter.com/projects/1455616350/yacypi-turnkey-raspberry-pi-based-internet-search
-+ Lumina Desktop Developer, Fuzzer, and Support 2015-Current
++ Lumina Desktop Developer, Fuzzer, and Support 2015-Current https://lumina-desktop.org
 + CharmBug - Co-Organizer 2016-Current http://www.meetup.com/CharmBUG/
 + Lancaster Linux User group - Co-organizer 2016-Current http://www.meetup.com/lanclug/
 + OpenSource.com - Author 2016 https://opensource.com/users/jtpennington
-+ TrueOS Developer 2016-Current
-+ FreeNAS/TrueNAS and TrueCommand Developer 2016-2018
++ TrueOS Developer 2016-Current https://www.trueos.org
++ FreeNAS/TrueNAS and TrueCommand Developer 2016-2018 https://www.freenas.org
 + KnoxBug - Co-Organizer 2017-2018 http://knoxbug.org
-+ Project Trident Developer 2018-Current
++ Project Trident Developer 2018-Current https://project-trident.org
 + Mind Drip Media - 2019 - Current
 
 
