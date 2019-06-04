@@ -58,3 +58,5 @@ Having been a passionate Open Source Software community member since the mid 90s
     + 2017 - General Attendee
  + CodeStock - 2018
     + 2018 - Speaker and Sponsor
+ + Red Hat Summit - 2019 
+    + 2019 - Credentialed Press
