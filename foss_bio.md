@@ -41,6 +41,8 @@ Having been a passionate Open Source Software community member since the mid 90s
     + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
     + 2017 - Staff
     + 2018 - Staff, Speaker, and Sponsor
+    + 2019 - Staff, and Sponsor
+
  + Ohio Linuxfest - 2014-2018
     + 2014 - Sponsor and Representing Jupiter Broadcasting
     + 2015 - General Attendee and Representitive for PCBSD Project
