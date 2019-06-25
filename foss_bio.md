@@ -35,7 +35,7 @@ Having been a passionate Open Source Software community member since the mid 90s
     + 2014 - Sponsor and Representing Jupiter Broadcasting
     + 2015 - Sponsor and Representing Jupiter Broadcasting
     + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
- + Southeast Linuxfest - 2014-2018
+ + Southeast Linuxfest - 2014-2019
     + 2014 - Speaker
     + 2015 - Speaker, Sponsor, and Representing Jupiter Broadcasting
     + 2016 - Speaker, Sponsor, and Representing Jupiter Broadcasting
