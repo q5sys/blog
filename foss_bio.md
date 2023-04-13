@@ -9,6 +9,8 @@ Having been a passionate Open Source Software community member since the mid 90s
 
 + Slackware and SuSe Communities: 1994-2008
 + Puppy Linux Developer and Community Support: 2008-2015 http://puppylinux.com	
++ PC-BSD/TrueOS/Trident: 2015-2019
++ Fedora 2019-Current
 + Jupiter Broadcasting - http://jupiterbroadcasting.com
     + Producer - BSD Now 2015-Current
     + Producer - Linux Action Show and Linux Unplugged 2013-2015 
@@ -21,10 +23,9 @@ Having been a passionate Open Source Software community member since the mid 90s
 + CharmBug - Co-Organizer 2016-Current http://www.meetup.com/CharmBUG/
 + Lancaster Linux User group - Co-organizer 2016-Current http://www.meetup.com/lanclug/
 + OpenSource.com - Author 2016 https://opensource.com/users/jtpennington
-+ TrueOS Developer 2016-Current https://www.trueos.org
-+ FreeNAS/TrueNAS and TrueCommand Developer 2016-2018 https://www.freenas.org
++ PC-BSD/TrueOS/Trident Developer 2016-2019 https://www.trueos.org & https://project-trident.org
++ FreeNAS/TrueNAS and TrueCommand Developer 2016-2022 https://www.freenas.org
 + KnoxBug - Co-Organizer 2017-2018 http://knoxbug.org
-+ Project Trident Developer 2018-Current https://project-trident.org
 + Mind Drip Media - 2019 - Current
     + Producer - Ask Noah Show on KEQQ FM 2018-Current
 
